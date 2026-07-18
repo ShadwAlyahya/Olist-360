@@ -1,5 +1,7 @@
 # Olist 360°: End-to-End E-Commerce Data Analytics Project
 
+> **Project TL;DR:** An end-to-end data analytics project that cleanses and processes raw relational e-commerce data using **Python**, builds an interactive 3-tier business intelligence dashboard via **Power BI**, and delivers data-driven operational strategies backed by text analytics (NLP) and statistical evidence.
+
 ## Project Overview
 This project presents an end-to-end data analytics solution designed to evaluate and optimize the marketplace ecosystem of Olist, the largest department store in Brazilian marketplaces. By analyzing historical transaction data spanning 2016 to 2018, this project provides a comprehensive 360-degree view of the platform across three core business pillars: **Business & Sales**, **Logistics & Delivery**, and **Customer Experience**.
 
